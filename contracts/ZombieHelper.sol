@@ -1,5 +1,5 @@
 pragma solidity ^0.4.25;
-import "./ZombieFeeding.sol"
+import "./ZombieFeeding.sol";
 
 contract ZombieHelper is ZombieFeeding {
     uint levelUpFee = 0.001 ether;
